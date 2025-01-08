@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @5ulut
 - 👀 I’m interested in Network Fundamentals and Embedded Systems
-- 🌱 I’m currently learning C/C++ and Python Programming
+- 🌱 I’m currently learning Data Analytics and Python Programming
 - 📫 My contact : bulut.morcicek58@gmail.com
 
 <!---
